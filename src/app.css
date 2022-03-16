@@ -4,6 +4,7 @@
   display: block;
   opacity: 1;
   }
+  
 
  .slds-box {
   display: none;
@@ -50,6 +51,7 @@ transition: opacity 1s;
 }
 
 .slds-border_top{
+  color:red;
   margin-top: 300px;
   padding-top: 500px;
 border-radius: 50px;
